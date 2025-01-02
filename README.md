@@ -1,6 +1,5 @@
 # React + Vite
 
-<b> React project powered by Vite for fast development and performance. </b>
 <h3> React project powered by Vite for fast development and performance. </h3>
 
 Features
