@@ -1,6 +1,6 @@
 # React + Vite
 
-## React project powered by Vite for fast development and performance.
+<b> React project powered by Vite for fast development and performance. </b>
 
 Features
 - React: A JavaScript library for building user interfaces.
