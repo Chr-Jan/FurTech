@@ -12,3 +12,7 @@ Features
 <a href="https://vitepress.dev" target="_blank">Vitepress</a>
 
 <a href="https://tailwindcss.com" target="_blank">Tailwind CSS</a>
+
+# Installation needed
+
+npm install scroll-lock
