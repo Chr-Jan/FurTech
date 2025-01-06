@@ -1,4 +1,4 @@
-import SectionSvg from '../assets/svg/SectionSvg.svg';
+import SectionSvg from '../assets/svg/SectionSvg.jsx';
 
 import React from 'react';
 
