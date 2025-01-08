@@ -16,3 +16,4 @@ Features
 # Installation needed
 
 npm install scroll-lock
+npm install react-just-parallax
