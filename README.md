@@ -17,3 +17,7 @@ Features
 
 npm install scroll-lock
 npm install react-just-parallax
+
+# Source for free PNG
+
+<a href="https://www.freepik.com" target="_blank">freepik.com</a>
