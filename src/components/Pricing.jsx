@@ -2,7 +2,7 @@ import React from 'react'
 import Section from './Section'
 import { smallSphere, stars } from '../assets'
 import Heading from './Heading'
-import PricingList from './PricingList'
+import PricingList from "./PricingList";
 import { LeftLine, RightLine } from './design/Pricing'
 
 const Pricing = () => {
@@ -20,6 +20,9 @@ const Pricing = () => {
                 <PricingList />
                 <LeftLine />
                 <RightLine />
+            </div>
+            <div className="flex justify-center mt-10">
+                <a href="/pricing" className='text-xs font-code font-bold tracking-wider border-b'>See the full details</a>
             </div>
         </div>
     </Section>
