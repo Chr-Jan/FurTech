@@ -13,7 +13,7 @@ Features
     <a>
         <img src="github_images/img1.jpg"/>
     </a>
-    <a>
+    <a className="mb-10">
         <img src="github_images/img2.jpg"/>
     </a>
 </div>
