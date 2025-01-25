@@ -9,13 +9,13 @@ Features
 
 ## Images
 
-<div>
-    <a>
-        <img src="github_images/img1.jpg"/>
-    </a>
-    <a className="mb-10">
-        <img src="github_images/img2.jpg"/>
-    </a>
+<div class="flex justify-center items-center gap-5"> 
+    <a href="github_images/img1.jpg" target="_blank"> 
+        <img src="github_images/img1.jpg" alt="Screenshot 1" /> 
+    </a> 
+    <a href="github_images/img2.jpg" target="_blank"> 
+        <img src="github_images/img2.jpg" alt="Screenshot 2" /> 
+    </a> 
 </div>
 
 
