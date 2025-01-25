@@ -11,7 +11,7 @@ Features
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="github_images/img1.jpg" target="_blank">
-        <img src="github_images/img1.jpg" alt="Screenshot 1" style="margin-right: 10px;" />
+        <img src="github_images/img1.jpg" alt="Screenshot 1" style="margin-bottom 10px;" />
     </a>
     <a href="github_images/img2.jpg" target="_blank">
         <img src="github_images/img2.jpg" alt="Screenshot 2" />
