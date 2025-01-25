@@ -9,7 +9,7 @@ Features
 
 ## Images
 
-<div class="flex justify-center items-center gap-5"> 
+<div class="flex justify-center items-center gap-20"> 
     <a href="github_images/img1.jpg" target="_blank"> 
         <img src="github_images/img1.jpg" alt="Screenshot 1" /> 
     </a> 
