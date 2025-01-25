@@ -7,6 +7,18 @@ Features
 - Vite: A lightning-fast build tool for modern web projects.
 - Tailwind CSS: Utility-first CSS framework for styling.
 
+## Images
+
+<div>
+    <a>
+        <img src="github_images/img1.jpg"/>
+    </a>
+    <a>
+        <img src="github_images/img2.jpg"/>
+    </a>
+</div>
+
+
 # Sources:
 
 <a href="https://vitepress.dev" target="_blank">Vitepress</a>
@@ -18,6 +30,6 @@ Features
 npm install scroll-lock
 npm install react-just-parallax
 
-# Source for free PNG
+## Source for free PNG
 
 <a href="https://www.freepik.com" target="_blank">freepik.com</a>
