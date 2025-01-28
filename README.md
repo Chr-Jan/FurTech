@@ -26,10 +26,10 @@ Features
 <a href="https://tailwindcss.com" target="_blank">Tailwind CSS</a>
 
 # Installation needed
-
-- npm install scroll-lock
-- npm install react-just-parallax
-
+```
+npm install scroll-lock
+npm install react-just-parallax
+```
 ## Source for free PNG
 
 <a href="https://www.freepik.com" target="_blank">freepik.com</a>
